@@ -1,2 +1,2 @@
-# R-simplilearn
-This repository contains practice codes and assignments from simplilearns's datascience with R programming  
+# R
+This repository contains practice codes and assignments from  datascience with R programming  (IIT Madaras and simplilearn)
